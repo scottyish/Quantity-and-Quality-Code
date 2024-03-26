@@ -1,7 +1,7 @@
 # Quantity-and-Quality-Code
-Freely available code used for the analysis in the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases"
+Freely available code used for the analysis in the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases", publised in PLOS ONE (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248341).
 
-Data from this article is open-access and can be found on the homepage or website of the individual databases. Instructions on how to access these databases can be found in supplementary table 1 of the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases".
+The data from this article is open-access and can be found on the homepage or website of the individual databases. Instructions on how to access these databases can be found in supplementary table 1 of the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases".
 
 Compute_SNR_QQ.ipynb: The python notebook used for calculating the SNR from the coordinates of the centre of mass of the region of interest.
 CalculateSNRs_QQ.R: The R analysis script used for the SNR and CNR caluclations and comparisons.
