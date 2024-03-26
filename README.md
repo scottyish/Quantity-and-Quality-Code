@@ -1,5 +1,5 @@
 # Quantity-and-Quality-Code
-Freely available code used for the analysis in the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases", publised in PLOS ONE (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248341).
+Freely available python code used for the analysis in the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases", publised in PLOS ONE (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248341).
 
 The data from this article is open-access and can be found on the homepage or website of the individual databases. Instructions on how to access these databases can be found in supplementary table 1 of the paper "Quantity and Quality: Normative Open-access Neuroimaging Databases".
 
