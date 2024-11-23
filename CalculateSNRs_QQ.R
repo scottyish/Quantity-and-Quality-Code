@@ -20,10 +20,7 @@
   
   # set directories
   data_dir <- '/Users/scotti/surfdrive/PhD/meta_analysis/Databases/R_stuff'
-  #save_dir <- '/Users/scotti/surfdrive/PhD/meta_analysis/Databases/post_submission/graphs'
-  #save_dir <- '/Users/scotti/surfdrive/PhD/meta_analysis/Databases/PLos One submission/POLS ONE submissions/submission_v4/figures'
-  save_dir <- '/Users/scotti/Downloads/tmpQQ'
-    
+
   # save graphs? set value to 0 for no, 1 for yes
   save_stuff <- ''
   #save_stuff <- 1
